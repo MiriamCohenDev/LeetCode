@@ -15,7 +15,6 @@ class Distance(object):
             self.second_last = self.last
             self.last = index
         else:
-            # המרחק של השלשה האחרונה (a, b, c) הוא 2 * (c - a)
             self.distance_sum = min(self.distance_sum, 2 * (index - self.second_last))
             self.second_last = self.last
             self.last = index
