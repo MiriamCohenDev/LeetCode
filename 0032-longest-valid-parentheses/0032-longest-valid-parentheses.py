@@ -13,8 +13,6 @@ class Solution(object):
         last = len(s)
         while stack:
             top = stack.pop()
-            # if top  == -1:
-            #     top = 0
             print(last, top)
             max_len = max(max_len, last - top-1 )
             last = top
