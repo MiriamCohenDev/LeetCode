@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/MiriamCohenDev/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0032-longest-valid-parentheses](https://github.com/MiriamCohenDev/LeetCode/tree/master/0032-longest-valid-parentheses) |
 ## Dynamic Programming
 |  |
