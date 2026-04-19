@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MiriamCohenDev/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/MiriamCohenDev/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0135-candy](https://github.com/MiriamCohenDev/LeetCode/tree/master/0135-candy) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/MiriamCohenDev/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MiriamCohenDev/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/MiriamCohenDev/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
