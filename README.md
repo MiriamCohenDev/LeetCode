@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MiriamCohenDev/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MiriamCohenDev/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/MiriamCohenDev/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MiriamCohenDev/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/MiriamCohenDev/LeetCode/tree/master/0135-candy) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/MiriamCohenDev/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
@@ -44,4 +45,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MiriamCohenDev/LeetCode/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MiriamCohenDev/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MiriamCohenDev/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MiriamCohenDev/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MiriamCohenDev/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
